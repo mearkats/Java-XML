@@ -3,7 +3,13 @@
         <title>Java Runtime Enviroment</title>
         <link>https://www.java.com/en/</link>
         <description>New releases of Java (JRE)</description>
-        <pubDate>Mon, 26 Jun 2023 08:19:48 GMT</pubDate>
+        <pubDate>Tues, 17 Oct 2023 08:26:22 GMT</pubDate>
+        <item>
+            <title>8u391</title>
+            <version>8.0.3810.9</version>
+            <link>https://javadl.oracle.com/webapps/download/AutoDL?BundleId=249201_b291ca3e0c8548b5a51d5a5f50063037</link>
+            <link64>https://javadl.oracle.com/webapps/download/AutoDL?BundleId=249203_b291ca3e0c8548b5a51d5a5f50063037</link64>
+        </item>
         <item>
             <title>8u381</title>
             <version>8.0.3810.9</version>
