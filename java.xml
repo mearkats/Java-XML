@@ -5,6 +5,12 @@
         <description>New releases of Java (JRE)</description>
         <pubDate>Tues, 15 Oct 2024 21:42:54 GMT</pubDate>
         <item>
+            <title>8u451</title>
+            <version>8.0.4510.10</version>
+            <link>https://javadl.oracle.com/webapps/download/AutoDL?BundleId=252043_8a1589aa0fe24566b4337beee47c2d29</link>
+            <link64>https://javadl.oracle.com/webapps/download/AutoDL?BundleId=252044_8a1589aa0fe24566b4337beee47c2d29</link64>
+        </item>
+        <item>
             <title>8u441</title>
             <version>8.0.4410.10</version>
             <link>https://javadl.oracle.com/webapps/download/AutoDL?BundleId=251655_7ed26d28139143f38c58992680c214a5</link>
